@@ -54,5 +54,5 @@ the inbuilt user-friendly navigation.
 >[!WARNING]
 >Each session can work with one song only. In future this **will** be changed.
 
->[!INFO]
+>[!TIP]
 > You can contribute your effort to this project.
